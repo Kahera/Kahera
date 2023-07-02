@@ -1,5 +1,5 @@
 - 👋 Hi, I’m June - aka @Kahera
-- 👩🏼‍💻 I’m a full stack developer working at Evidi, specializing in Azure and .NET, as well as Vue and Angular. 
+- 👩🏼‍💻 I’m a full stack developer working at Evidi, specializing in Azure the cloud platform, .NET for backend work, and Vue and Angular for frontend work. 
 - 🤓 I love working on home automation and various private projects. 
 
 <!---
